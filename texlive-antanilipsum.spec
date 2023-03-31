@@ -1,6 +1,6 @@
 Name:		texlive-antanilipsum
 Version:	55250
-Release:	1
+Release:	2
 Summary:	Generate sentences in the style of "Amici miei"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/antanilipsum
