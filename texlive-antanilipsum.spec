@@ -3,7 +3,7 @@ Version:	55250
 Release:	2
 Summary:	Generate sentences in the style of "Amici miei"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/antanilipsum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/antanilipsum
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/antanilipsum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/antanilipsum.doc.r%{version}.tar.xz
